@@ -8,7 +8,7 @@ gtk-gi-declarative.
  -  Asynchronous plugin result loading
  -  No runtime settings (not a bug, but a feature)
  -  5M memory on coldstart, 20M memory when all plugins are loaded
- -  Very quick startup (compared to some other graphical launchers
+ -  Very quick startup (compared to some other graphical launchers)
 
 ## Configuration
 All configuration at this moment is done by editing source files. This will be changed in the future to XMonad-style configuration.
@@ -63,7 +63,7 @@ All contributions are welcome! There are no restrictions.
 ## License
 
 This work is in public domain. By sending Pull Requests you agree that
-all of your work assosiated with this software is in public domain as
+all of your work associated with this software is in public domain as
 well.
 
 This only applies to the code contained in this repository, to see
@@ -74,6 +74,6 @@ licenses of it's dependencies visit their respective pages.
 THIS SOFTWARE COMES "AS IS", WITHOUT ANY WARRANTY (IMPLIED OR
 OTHERWISE) TO THE EXTENT PERMITTED BY THE APPLICABLE LAWS. IT MAY
 CAUSE DATA CORRUPTION OR LOSS. BY RUNNING THIS SOFTWARE YOU AGREE 
-THAT IT'S AUTHOR(S) ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY 
+THAT ITS AUTHOR(S) ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY 
 THIS SOFTWARE.
 
